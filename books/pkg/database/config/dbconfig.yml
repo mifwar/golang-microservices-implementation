@@ -1,0 +1,4 @@
+username: "username"
+password: "password"
+dbname: "perpus_book"
+port: 5432
